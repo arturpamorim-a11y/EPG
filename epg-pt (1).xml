@@ -1,0 +1,782 @@
+<tv source-info-name="IPTV-EPG.org" source-info-url="https://iptv-epg.org">
+  <channel id="1+1.pt">
+    <display-name>PT - 1+1</display-name>
+    <icon src="https://iptv-epg.org/images/_m-IVOyRYJujbFYORC9jp-Cq7wy-J1lbnxOicb6ibxCV2-PjIiAlcbIAq7sIEANWK-1bKzJ36f4Fv9hMQpB6N9mest4GotK6y97ZgSqQnUM"/>
+  </channel>
+  <channel id="24Kitchen.pt">
+    <display-name>PT - 24Kitchen</display-name>
+    <icon src="https://iptv-epg.org/images/lVZ1i9IuLyVqsGNxOB6vh6UqvJ4NNwwPRNc7dIG2xlUi6vRbH_uS3apMUqmPKB7vAm957oeVpuw5VOpnhok_RevmDUtoVdR1Ez2ATINytBqcLVrF"/>
+  </channel>
+  <channel id="ABolaTV.pt">
+    <display-name>PT:PT - A Bola TV</display-name>
+    <icon src="https://iptv-epg.org/images/6Chjpp9mOmC0Tfmw2SqhE2Hb5OWqffFtR1U9mDP68Agayh4rY6Lx-sPa8AK9QKsypfhES8qSEjTmivkJQF98_E6BoTm5XAkJLkdNax4jVg_9xQ"/>
+  </channel>
+  <channel id="AfroMusicPortugal.pt">
+    <display-name>PT - AfroMusic Portugal</display-name>
+    <icon src="https://iptv-epg.org/images/wokri-2y5hISvyW_KGzkd63u0CP1qEhH2Dw7byj6PxXCavwBDRl5y4KswJn6QZJ2lieZPC-eZ-icCD-bomBCKb3zEQDsXZ-N0mGeGWayNRSInVb_aFpmMIl7vW8"/>
+  </channel>
+  <channel id="AlJazeeraEnglish.pt">
+    <display-name>PT - Al Jazeera English</display-name>
+    <icon src="https://iptv-epg.org/images/4_3zDzLL5vR5QGdMh-9Pmaks_Aln-bWnE2D9ClGlu6NBVmcP1tNBUh5ditn9th5F6mjjXXXM6LeRvVOGh0sd2m2NsLqcmaIBLleWsAXuxMoEW63-QcpSJpQl8A"/>
+  </channel>
+  <channel id="ALMALUSA.pt">
+    <display-name>PT - ALMA LUSA</display-name>
+    <icon src="https://iptv-epg.org/images/fv2wtqYWaT5M61SguGVHGYeOIh-67H9qzw-8ZpXE_VaUOKOW7xlOPJi44cSabIfG7KxtmDwSgaBMfTXQaXDMlj_Wg6zEZo2Y1aACU3WdJlh2tX0"/>
+  </channel>
+  <channel id="AMC.pt">
+    <display-name>PT - AMC</display-name>
+    <icon src="https://iptv-epg.org/images/ycLK50gdAFgZNWKjHEXSYGwpX-mg9XTalcmv4SYI5VqpyChQZD7AcWbykU2KKTb2dLMB-rVns4PqmngFXBLG1OiODxXPfSDEVcfOHzUr"/>
+  </channel>
+  <channel id="AMCBreak.pt">
+    <display-name>PT - AMC Break</display-name>
+    <icon src="https://iptv-epg.org/images/NTd2iTFsCmv3xIjKNhAOU85kHSZb0p4lgZioq_qi1v6ANzYkwfg6WLkiKJU1IL7Dhx1bTwgNjdDCRrW6e4wPNNAqi0xZltkUPnvkjDTquZ1TsfA"/>
+  </channel>
+  <channel id="AMCCrime.pt">
+    <display-name>PT - AMC Crime</display-name>
+    <icon src="https://iptv-epg.org/images/tvnLCZ82Kn04PBE3zSOzF1DXEUQG1LngcRean1cxymb7SCW9AziUsbCmkGMLOiN7u1Mx3eAsdcNcGPLDrQvWlhthKdqdc_AYCmfNJaLrzj2evgM"/>
+  </channel>
+  <channel id="ArirangTV.pt">
+    <display-name>PT - Arirang TV</display-name>
+    <icon src="https://iptv-epg.org/images/BRpNVWm19bDj2CctXVqBQrprGaD8lO6uol9WjnIbS-OariBeLyl84MxLVUr5Xiej1mnRX1RNtqIFDlQxdiJCWP_AsxdVRPrgnYXSjxC7lEZetSe4"/>
+  </channel>
+  <channel id="ARTE.pt">
+    <display-name>PT - ARTE</display-name>
+    <icon src="https://iptv-epg.org/images/bD_MBTwxeceuG5H11oAV2Xxd6Trs1cqqXiKGCpRCvwmX5DxDxnt4rrD2eLyTQbHq3ThXoKbRMcvs960F2UzCIqNR9HAQUCex-0p6NLWyKA"/>
+  </channel>
+  <channel id="ARTV.pt">
+    <display-name>PT - ARTV</display-name>
+    <icon src="https://iptv-epg.org/images/sLttu7NA5ZnAm_upiTyhj_YItrgPMeF06lemaJWc-lOGwFrY2-6W5hI8c7L1q9aLDZodgB3XXIGLTNnq_XYKiM8hbu24Qosfo4MWoonBFg"/>
+  </channel>
+  <channel id="AXN.pt">
+    <display-name>PT - AXN</display-name>
+    <icon src="https://iptv-epg.org/images/wM9sFC5vcy9M5Gsj6UQlFs4G65sxqIPAgIsV6cJgu4XjK1jS3PFMs-Sce3s7bXOOiTWEX1AzYovpcIG6P_7YBs6KsmoFoCxFi4s6UC7W"/>
+  </channel>
+  <channel id="AXNMovies.pt">
+    <display-name>PT - AXN Movies</display-name>
+    <icon src="https://iptv-epg.org/images/vY-CmIuqR6CmZWSivtyfzdzLIZ5vmwBR4HhwxU8a5QNbMBZdj_XbJ0S2DHthM88OajqFSprY1teoS5zRHIylmuUJAUYTTKy1oMTqpujyM6DkMawN"/>
+  </channel>
+  <channel id="AXNWhite.pt">
+    <display-name>PT - AXN White</display-name>
+    <icon src="https://iptv-epg.org/images/Eg8_KYddTWKOYYJLbrkOMkXS5Bk9fN2TQ5Ve-bv1rj0uEIlzcXbwcq8OGWV4eI6Ish1KJI-3BiY_pW_tZOP5SVCro6xhBx_p7WPIMyqfzGcaKQo"/>
+  </channel>
+  <channel id="AzoresTV.pt">
+    <display-name>PT - Azores TV</display-name>
+    <icon src="https://iptv-epg.org/images/i1PjmJgwLN1NzzMXT-BM94kxDSo9H6coHP1xZnxDgRWxSky72qRNQbEInKuwrg3qbkrmr_rnoq0bj6TS6zdj31XuANAbHg2O0Lmw35jxt2waYJA"/>
+  </channel>
+  <channel id="BabyTV.pt">
+    <display-name>PT - Baby TV</display-name>
+    <icon src="https://iptv-epg.org/images/aT2jvWKq9b1qikxXNskTdoKfM2WJ2JYIPJIIbNB81mwC16CMuwFvfM2IrZ3Ne2IL-MOq3VlsilFGPvrI7L3lsa2l5_prpONH9XSGOSLQATrz"/>
+  </channel>
+  <channel id="BenficaTV.pt">
+    <display-name>PT - Benfica TV</display-name>
+    <icon src="https://iptv-epg.org/images/R7rZb8NcIwKukAvxYC4zEnL_6-RTDcVMU241GXFKkOcNzvXLxpNTn7nrwePdZn77KTicA02he2N9w5HZ0bDu8nyPvJz4FJ6smAAs5VnnlUIaiM3e"/>
+  </channel>
+  <channel id="BFMBusiness.pt">
+    <display-name>PT - BFM Business</display-name>
+    <icon src="https://iptv-epg.org/images/yufw-7KVpex5q4r7anAvoqQGVAWVEC0aXA7N5jiHsJOPyG1UUfLXnQh3ncpfizWZfV2Y4g2kL-UgOnHpQoAvxGFKQkyyxmS76qyE2ErLg37IKk-oj-0"/>
+  </channel>
+  <channel id="BFMTV.pt">
+    <display-name>PT - BFM TV</display-name>
+    <icon src="https://iptv-epg.org/images/epammoGi89kP5mPYa_y4YmeQKUOjKN8fq4PFiftGaGUZlazMkUCLkBRauRI9SL5LGRAqTNNH_N00DAX8W7ExqeUjR68XYrGuSaTV222ShQg"/>
+  </channel>
+  <channel id="BIGGS.pt">
+    <display-name>PT - BIGGS</display-name>
+    <icon src="https://iptv-epg.org/images/EUqTF9HURHCvDo2NOVbQwE_xr8TeKK5q53AaUKyyQFB0zpF54rdVe5-OJbYkDdF2sXh3tHboTERwFt26eLkBPPk7eB-GspwhrmO60nFXFGA"/>
+  </channel>
+  <channel id="Bloomberg.pt">
+    <display-name>PT - Bloomberg</display-name>
+    <icon src="https://iptv-epg.org/images/M3aVgUHTtp-IyN7JGRDjlijaMpWXpiZtjCsRX42uILd04AJcsFCbUGZqXopbygmj5AwBYvgI1SzT1UnISAl3IJpIeqmW75lSi5vQDNTxROqdJXXX"/>
+  </channel>
+  <channel id="BNT4.pt">
+    <display-name>PT - BNT 4</display-name>
+    <icon src="https://iptv-epg.org/images/ms1QbU1uKcDT7BfpfYEoSraZmWo9nzUjN9cs2kESry2EKRm80i22t3EfVDxnW6ibOLdhA3LX49ET_te2IqBK0UzPZCIp4Ok8qEkYi_kq8g"/>
+  </channel>
+  <channel id="BNTWorld.pt">
+    <display-name>PT - BNT World</display-name>
+    <icon src="https://iptv-epg.org/images/aK9ZwC5XFakQlfoBPW1MB9gQEggbtBIEcz5S6DQfc3dJjks18rFguiPBAAiQu1bqHZDAAW_H80X5B4fC9_Ug2dZWDWe29xKagtjSLWfX6tTrgdI"/>
+  </channel>
+  <channel id="BODYSEX.pt">
+    <display-name>PT - BODY SEX</display-name>
+    <icon src="https://iptv-epg.org/images/c_Pt1_Xyz0btl0nQ1X6p0_gZ26BjfcdSmAykT-RPPcRVjH4ZfvY39uOHJGnNMBJqv_4oo52YP31xVMyeyUSjoPdskOMgDd007hHO2fp9IDlW0Q"/>
+  </channel>
+  <channel id="BVN.pt">
+    <display-name>PT - BVN</display-name>
+    <icon src="https://iptv-epg.org/images/j5i4KsOgwK_fh7WvLLzr-O7I84oPD_-oWJVFqzp-yJG8rlvgweARXO66sbyl7Uq7qLbRqMMP0nnTzVixl2Uay2bBLhHMcltRf6_zN4He"/>
+  </channel>
+  <channel id="CMusicTV.pt">
+    <display-name>PT - C Music TV</display-name>
+    <icon src="https://iptv-epg.org/images/Gm-PAApniRdRDooLiLm99S-FVR3FeK-8q6Q8kroD_FIBix6MfFHB9AT-l5R6WWqwemIt1JsyiQAh9jfXzubs8DMGEgL58OUGriaXMXoZjjbTrIk"/>
+  </channel>
+  <channel id="CacaePesca.pt">
+    <display-name>PT - Caca e Pesca</display-name>
+    <icon src="https://iptv-epg.org/images/agG_m3TErs_Ki6IRXwy4mZnlPP9zW19LtweI-Nme4h1IXMU3km-NkMUCx5tewcGL5b1iJnbVyAlGUp6TzeR9qtY3hSEt_e-q30RSppD1iOlFetScvw"/>
+  </channel>
+  <channel id="Canal11.pt">
+    <display-name>PT - Canal 11</display-name>
+    <icon src="https://iptv-epg.org/images/0xHK5UrUqIuUoFbvYyZg64JaXQoMxQSC9QDQiC3Gd-sO_uthF-8nW4Z0tMvujxaLzO7Zh0VgSVL9qrD_9yRJ0CarQK8pU0pA9sxi19cEfg-gPQ"/>
+  </channel>
+  <channel id="Canal180.pt">
+    <display-name>PT - Canal 180</display-name>
+    <icon src="https://iptv-epg.org/images/7V7yEb-czYiqPcmkNKeU86lkY9tlbL73H1y3usvseicg93sNNFVhDtUT9RYkRDWfpn21lyZF8yVou-UowcBnpHN7xfQyNW9KXRHQ5FPGIwrtRc0"/>
+  </channel>
+  <channel id="CanalGaleria.pt">
+    <display-name>PT - Canal Galeria</display-name>
+    <icon src="https://iptv-epg.org/images/pw-jx73n2rDqlwU8F2u1vBXIf_jGLupRD6xArdG-EL1XoJzgmpwbS2A3jcnC9AE9knPWRfuW00Tzn58b3MpOdXpYxEr_mSRZtGXJOFv-TOTveftdCU9a"/>
+  </channel>
+  <channel id="CanalPanda.pt">
+    <display-name>PT - Canal Panda</display-name>
+    <icon src="https://iptv-epg.org/images/2GUnK_isPArAFV2XmsTWMs3jIs6hHUoQIyOUips2dJmg8aBVdqK-txyTQl72QO6d_qFjO9hkMYLmI5-AXYCaYf2NatlCcgPNbhe3OBQ5QF1o3iuF-Q"/>
+  </channel>
+  <channel id="CANALQ.pt">
+    <display-name>PT - CANAL Q</display-name>
+    <icon src="https://iptv-epg.org/images/SPGTEQuo4iL5h1zNK6tkA_Ok6mVqLrJ0liMOwtYaY8YLNUWls7WR139btKn2X_E0W1S3d02JiXk9o5N6jaPvoTA43xU-X-ird8y2S12Jp-Ql"/>
+  </channel>
+  <channel id="CanalQ.pt">
+    <display-name>PT - Canal Q</display-name>
+    <icon src="https://iptv-epg.org/images/Hq4UAjvR33gsDOEG41LtMwP72eX4cpkQOwvTafnZBSfu0cr5rAFgLlj-QKC6-pbyVHYACy07Is_mkACialr3s7_SsUzqS6gDWB2Jfa9NMufl"/>
+  </channel>
+  <channel id="CartoonNetwork.pt">
+    <display-name>PT - Cartoon Network</display-name>
+    <icon src="https://iptv-epg.org/images/-b0mnc6Czf_jGJKxHXK4LctgVhGUIcocKiRcbI2oP_XRnmuKU8rLqO4CbXMi-dP9VL86hSi483W9TfsLd9u2BEnyXMMVadsLmZuHzX_0zIVV4EC6t2y2SEE"/>
+  </channel>
+  <channel id="Cartoonito.pt">
+    <display-name>PT - Cartoonito</display-name>
+    <icon src="https://iptv-epg.org/images/s9NSNbrxsJw-DuC9TmcBNuHkz4vkC3BIkKs9ETyB5xEVB_0W3jNw2BItft45MglhRj6hmXoEX8Fznj-0hKzHBloofRgKHQIiiHzFTsjJMVT0ixlWEA"/>
+  </channel>
+  <channel id="CasaeCozinha.pt">
+    <display-name>PT - Casa e Cozinha</display-name>
+    <icon src="https://iptv-epg.org/images/2yDZQpv7rKlaGYQoYttdm75ywszmUw8BalpHeHKQP_iZSJxdS3WCOZfi0sNEG79dGpsZkuEF4f9p9ztxubY-0ADhrsfNTBraFYrgbL-88YzELb85iBsV"/>
+  </channel>
+  <channel id="CCTV4.pt">
+    <display-name>PT - CCTV 4</display-name>
+    <icon src="https://iptv-epg.org/images/NjXf_tF2wGpqkjxrG78BmKwhfeUA1OvskRQFQf9wJhB4xjobhwYLoFxiKS9uB3PjACx4IiUarrWWGvUYQ3q4ZXa0fin45Wcd19zc4j0y450"/>
+  </channel>
+  <channel id="CGTN.pt">
+    <display-name>PT - CGTN</display-name>
+    <icon src="https://iptv-epg.org/images/BcoWj-p7E3MrA7ZglfTvITQhjXyLhCdcqk34cIG4n2BVwg96VGXO-JbDZUyjuwVkwDMRJYLIn7COMyLi9oNy-iB1a-M8vAvF5c2vjv7yPQ"/>
+  </channel>
+  <channel id="Cinemundo.pt">
+    <display-name>PT - Cinemundo</display-name>
+    <icon src="https://iptv-epg.org/images/4IrsxHCv5PtOzcUH_nso39RwDNRRvy55OGkSuO27GESbfmIMRopg2caNNtd4HwW55iVcNsuflNmBcFrrFyZYQlX0N372NUwR0Bc3Tr8Eo_iQD6XG"/>
+  </channel>
+  <channel id="CLUBBINGTV.pt">
+    <display-name>PT - CLUBBING TV H</display-name>
+    <icon src="https://iptv-epg.org/images/NSPKh3mn5eUysIP2Bdr1W00HpcoV_mfYVCRyFNDFH8xtruBm8f7vhSgX41OypXCKRpbmilKJRoi8BQYq6aw4ELCpIpxRhG30Wy064TTp1YSVDjZqUg"/>
+  </channel>
+  <channel id="CMTV.pt">
+    <display-name>PT - CMTV</display-name>
+    <icon src="https://iptv-epg.org/images/U5VbaXPXh5FpeMnLMJCvvfXC2iRd9b0N3SsPP4HS8I-WMRSmlE6YoG9ZCs6FCNDQrHc6Jqvi98a8lLdweZxxM2s6rh-c9c0nL2LleTC8AA"/>
+  </channel>
+  <channel id="CNBC.pt">
+    <display-name>PT - CNBC</display-name>
+    <icon src="https://iptv-epg.org/images/eJG-cs7w8niisto7wvN0k3mcGRR0VWFbGjTXyk4qEFrkU7ANNBYGVu2BABj5fdCM_hkZK5r6FvosAzjWsNGmXMesXoMwOv6gitNTpR3QxQ"/>
+  </channel>
+  <channel id="CNN.pt">
+    <display-name>PT - CNN</display-name>
+    <icon src="https://iptv-epg.org/images/MbCUNNB51exQ4ygoBCiNLyVF0I_4QRd6olgcIUukEilgmRIEqHPPlHA-Qp9ZpnjDFXRe6Uvz4H96HK6m5YubDzMYs6EksjPzKD4yI0YL"/>
+  </channel>
+  <channel id="CNNPortugal.pt">
+    <display-name>PT - CNN Portugal</display-name>
+    <icon src="https://iptv-epg.org/images/y9UlXwdx6g4uk8x98Q0FGzqvXEWIkCq0aMb0BvX7-hiX_7ISPXvCB3Y5tJszvU8WNT8MG-ff8nWiZ2JKF_GyRC7yt1e2QluGzlhW203aoIrNIO02QFA"/>
+  </channel>
+  <channel id="DAZN1.pt">
+    <display-name>PT - DAZN 1</display-name>
+    <icon src="https://iptv-epg.org/images/YQIWDD5Ivpw87K51_G6i8mJoUqzOch8nsuUfmZIJevxKmQXrCkKDx5WBIMUxofQLVUjtyknY0crwwwwxhW2ZMh7UkGVsPOLTEqtd6uSgz4s"/>
+  </channel>
+  <channel id="DAZN2.pt">
+    <display-name>PT - DAZN 2</display-name>
+    <icon src="https://iptv-epg.org/images/YXqcpZtCqskUmK_L0LGAreLa9l2hsSroCYLgLxuKv2_t0SIy2VGMLe0py77ZW1jlhZBmU3AB29c0knRioPF7v6LZkJpjaskOaK4l8vfaSx8"/>
+  </channel>
+  <channel id="DAZN3.pt">
+    <display-name>PT - DAZN 3</display-name>
+    <icon src="https://iptv-epg.org/images/rJb5ey_cKnQxLeFOu2btxHFSRlkHEqhl75iFB12iD5nHOG1AUnAl6Qr2U_H_dnLbsELNSBLyaXlrnDETO7A_kzq9tXM1f71HJlRBKLYiENU"/>
+  </channel>
+  <channel id="DAZN4.pt">
+    <display-name>PT - DAZN 4</display-name>
+    <icon src="https://iptv-epg.org/images/TcyhHwP5m3IGjiPcN5qBXL5nZHOz5EI9s_McaSCTLBRmNKCSDEHzFyaSM8vCUJFsCRt6Pa0MHw6TsP656SOzVVtyeK8dIaBGvmZQArZ1IQ8"/>
+  </channel>
+  <channel id="DAZN5.pt">
+    <display-name>PT - DAZN 5</display-name>
+    <icon src="https://iptv-epg.org/images/Ri3hXmTCBefDtOBvNuuEcHthWA8Rd3jXQqyPNiOkrV3PuvQuMmi57c6lyiBJ60rOpy8yFw_vVNkcZrgQlkAjOuxpFr6rct5SMfqHk7lzO_k"/>
+  </channel>
+  <channel id="DAZN6.pt">
+    <display-name>PT - DAZN 6</display-name>
+    <icon src="https://iptv-epg.org/images/VwPkCbsfjxJLy58DDBfr5VY8gu811DQ6gVUB-B53C0XE6yjpVnK1Mhv0-l3cl8t6spB1g4CYuW69V5LgTd3Vuz6iI37Q9si2YUywdA2DXb4"/>
+  </channel>
+  <channel id="DiscoveryChannel.pt">
+    <display-name>PT - Discovery Channel</display-name>
+    <icon src="https://iptv-epg.org/images/KXkb6AKN1MHNGyuavZHDHkCRtNnMjo1OkkG4w8Dg3H2Qh6qUtROtcY7IIh2mGvGKnfXD8O-4BJObnSRXxObpnhgQGerq5ozjPco3kxqnCAfaLhiE5r6o4OIExg"/>
+  </channel>
+  <channel id="DisneyChannel.pt">
+    <display-name>PT - Disney Channel</display-name>
+    <icon src="https://iptv-epg.org/images/pkYAbuMDWPILymgIVB8cxmnfhHafuMB6BOctag-ea9YpbnGXrQWAEqzlQ9xst9NU4EqmZtpj4Wvyw5fYC_QADqREK0KRTP7ss5xsWhRvDnLxFutnZHdtnw"/>
+  </channel>
+  <channel id="DisneyJunior.pt">
+    <display-name>PT - Disney Junior</display-name>
+    <icon src="https://iptv-epg.org/images/PKGSl6eNJYRZgN1NAAyZRcUyWCRbnH1DnJ87QZqsuEI5v8u5aSpWTyUzkYcxOjLHfMlsQPVygUKQpCkIZkoEtOLZcPMLWAL5MBHRLpC4biVENKHMCqec"/>
+  </channel>
+  <channel id="DIZICHANNEL.pt">
+    <display-name>PT - DIZI CHANNEL</display-name>
+    <icon src="https://iptv-epg.org/images/Ec0Gn9ni2Qy3i9BAuKA3fwwVrMyHl4m7dWjfS1-UKCORgrKiWGsr675yDJ00XH7MOAB-_d1uUpXLnm-xdV45Bw7PENkVSty1G2agrUIFKqBWnODOrF4"/>
+  </channel>
+  <channel id="Docubox.pt">
+    <display-name>PT - Docubox</display-name>
+    <icon src="https://iptv-epg.org/images/K71SUvD4rRH5kisMWHuj9hjUCfRTVWHrxmMk5AAv2obD1tb5_CwJkz1RzVj-Xhw3LyDhvWXRH1REqqEsoI4qma1W7zbiHjCEB7uR3xlUhQYpgw"/>
+  </channel>
+  <channel id="DWAlemao.pt">
+    <display-name>PT - DW (Alemao)</display-name>
+    <icon src="https://iptv-epg.org/images/B-pmX_3PqNQ56xwUGQuL56zR5lLYTMdZlFvOR1hK2KaDBOPN21h_Ig0saLAcU9blvHONzhK16_GEkPl8VGbG_w-UgDJPECXtkOusaIOiuZE-K8w"/>
+  </channel>
+  <channel id="E.pt">
+    <display-name>PT - E!</display-name>
+    <icon src="https://iptv-epg.org/images/exY6fi9kUXMwn_4y4cfHfJHbrtMwP2-eGvJuXF6EJ9AQ7l98qoeH-2fxcv4nZEbmeSQlOcT319yONxzzx5C5iO56t0-Ojm31H3naGw"/>
+  </channel>
+  <channel id="Euronews.pt">
+    <display-name>PT - Euronews</display-name>
+    <icon src="https://iptv-epg.org/images/hmAyq9gW3YzjQ3DbbWL_nwRO2ubjUHr0HwKR-yEXbSoyRhhqt4VeU14HEdBG7ZIVlf612tsGnivUzPNd6amimb3lcKVWdhec8ctJaI1_BPjG-BA"/>
+  </channel>
+  <channel id="Eurosport1.pt">
+    <display-name>PT - Eurosport 1</display-name>
+    <icon src="https://iptv-epg.org/images/tHe5HLVML0KUS32mBLB4kXCM0bNHR2II_i_e55ftYSX2qmgK35xBzR6GkaRmvUor8S_HOGuYqjNdHNqogKnzQPEYunXN0Dz_AyCsLz-3ehBvKvd_Zw"/>
+  </channel>
+  <channel id="Eurosport2.pt">
+    <display-name>PT - Eurosport 2</display-name>
+    <icon src="https://iptv-epg.org/images/EskFUnV6mEBe0u-yzgKc9wPSFouDN_KpYc9AefMP23IdjJOhODjAjvPRKFp-MGp751WdrJ9t3tzRTDnJ_KxeMPV-mIDrho8Wd1YnVgi7zHAHu7kWXA"/>
+  </channel>
+  <channel id="FightNetwork.pt">
+    <display-name>PT - Fight Network</display-name>
+    <icon src="https://iptv-epg.org/images/NOHzOAjgTNFMqjezQU28yKt107GoYS12An9A2O1rWM0Xq_PxoHgf63DZme9FKS2Y9RM0QI9tbcyAViG-w5JUIyL1NzNYi7rWcPuMazZ98TgQ8_rKoEho"/>
+  </channel>
+  <channel id="FoodNetwork.pt">
+    <display-name>PT - Food Network</display-name>
+    <icon src="https://iptv-epg.org/images/FzAO8YnPd0oCHgU-uKrUhcp2Re2I2xYtmzNJ-UkOMYQ231htpOU2epR7ylV8blS17ZYqFrpMx4zcjg6gNBnHmmz1O7vDKiSaNEAxUAQko9aR4FpDfEw"/>
+  </channel>
+  <channel id="FRANCE2.pt">
+    <display-name>PT - FRANCE 2</display-name>
+    <icon src="https://iptv-epg.org/images/GeXYHZRkm3IWSMS177Fuek25YEhvXr9sOHJ1wssDd7ZLRHglF38YgZTecirZnEd7jH857FXemYWQUq8bz53zjs-6iu7Mn0dgfaHkRYaPwZSdyg"/>
+  </channel>
+  <channel id="FRANCE3.pt">
+    <display-name>PT - FRANCE 3</display-name>
+    <icon src="https://iptv-epg.org/images/DSK-EOukj2HwDCUY-DxNDLt15NHAt89VD-ZOr4b5iJNIx44sIrPFzwJ_lAnQtK2KryDq8UF3ZuwjFLQ5P-DmExGoOYcLR5QYuJbwOcWQiSiGCw"/>
+  </channel>
+  <channel id="FRANCE5.pt">
+    <display-name>PT - FRANCE 5</display-name>
+    <icon src="https://iptv-epg.org/images/lVZGlkBRs-rH7pAijXqAL8PjjyHChfQp3BsTlmYXUM63oxC4lmwF-1OykEabmvgZPw-i3BD24GkUuc9-QMWp0cQG8_jsLO9kJFy2yzCDoKgq1g"/>
+  </channel>
+  <channel id="France24Eng.pt">
+    <display-name>PT - France 24 Eng</display-name>
+    <icon src="https://iptv-epg.org/images/_tcpD43BjuzxMNihMqlMCWVhFIcKjnmj147CLjPYrVWLGoo1dmNgcCJEsTdjUtwGAuBU4wVB1OI5npmn9mUu6GbsbFUjQ7hMbbqHOoP-7YPptaDqJtI"/>
+  </channel>
+  <channel id="France24FR.pt">
+    <display-name>PT - France 24 FR</display-name>
+    <icon src="https://iptv-epg.org/images/NtDGG4tqDLounnFxUod7KS82PGRgtgBsh5eaURMr4gobS5iFVoZa3KfOjzFW7K_Rkbw3Gu0FXK3fRBW1tAFCo0pE9NvNc_R6p9rjNaqW7VU-2ZSRrw"/>
+  </channel>
+  <channel id="FTV.pt">
+    <display-name>PT - FTV</display-name>
+    <icon src="https://iptv-epg.org/images/MJc1AzUUxD_JIsez4M19aQUY1XNGbcA-x3TII7NcXXbJEN2gXYcikoFFo_4nYMZQqTMRYNApEaYEfRF4RYhFMcbdkYjp8nDgdM8NWlrf"/>
+  </channel>
+  <channel id="FuelTV.pt">
+    <display-name>PT - Fuel TV</display-name>
+    <icon src="https://iptv-epg.org/images/DuP6cODMtci0xSp1k0dqS4gmkOTsZEHNccy1i5PrpEru-Ta3p9kEYBpc29SSpxBmUyVTita_PcyNkMKJnI7yoHSnoxcwcC1cNVa0d8fxh2rr"/>
+  </channel>
+  <channel id="GALERIA.pt">
+    <display-name>PT - GALERIA</display-name>
+    <icon src="https://iptv-epg.org/images/2NoRXYhel7Jk5-XPrkPVIgO3DrdqfAFtz5RxGEJ25n0Gai1_cW57XtLUpXpOjovSeu8tWSuf75bCwSoWVfHzm_5ELteS7ynrkUbw1LImAwY1RQ"/>
+  </channel>
+  <channel id="Gametoon.pt">
+    <display-name>PT - Gametoon</display-name>
+    <icon src="https://iptv-epg.org/images/5NBBcyw16xVxujohZSnhBFK-whFeFzxEkj0ZU4Q3PdXwNnKCI3f0y4yucE11vpdFxdqrExNPr-vn2gR4HRlTtBxXXLFm2J974FaNR0aJflbhIKM"/>
+  </channel>
+  <channel id="GINX.pt">
+    <display-name>PT - GINX</display-name>
+    <icon src="https://iptv-epg.org/images/iSABsaS6hXGiszNqi6X1B9NDnb4nKg_9Q9Ab07M0DQujFJRXsllZ1TM0s7n0ya3mpGX_TDeq-dlWIz3EpxnJvWNDo6goGhUtsSGV67BhuQ"/>
+  </channel>
+  <channel id="Globo.pt">
+    <display-name>PT - Globo</display-name>
+    <icon src="https://iptv-epg.org/images/FPZdu-zJt3wOCmd8wM3lln3mlIT2IUyc_-zM2bKmAT7Uc8gnehy5qff5Xhe5nO4zR6cW9OcTlSg47J8K7OCw6C2X1oJbXseCEgFXxmrcea0"/>
+  </channel>
+  <channel id="Hollywood.pt">
+    <display-name>PT - Hollywood</display-name>
+    <icon src="https://iptv-epg.org/images/lX_lMA7pvj9uHnUrZz58yn-suKOiweLZBGT0JW-oje9I61MEjdPqaq0A5PTT4IRprv41XJRcuiibYEs6nvNIq6jozY-LsUwjdMBVkPsclaxbyO5J"/>
+  </channel>
+  <channel id="Hot.pt">
+    <display-name>PT - Hot</display-name>
+    <icon src="https://iptv-epg.org/images/LJ6V8K6Sv-rxwAp6Z7RhjrpuF3lEn8EU6lCOG-qwt08cna7IxQFJcPYQZ_HRT9jv7hbKDRO-tTFEzEGUhO3oguTCG0UBNJEH4648rJtl"/>
+  </channel>
+  <channel id="HOTMan.pt">
+    <display-name>PT - HOT Man</display-name>
+    <icon src="https://iptv-epg.org/images/xGl8NLLVv4x64NAXfCzU_PX__NpczHjpZOWm6ceQJWMaUPoQpzpZJnRa1OQYnvMF6p1jvdtc32fVPny3-Yh45QR_RkA6qTm9n2legpki77aN"/>
+  </channel>
+  <channel id="HOTTaboo.pt">
+    <display-name>PT - HOT Taboo</display-name>
+    <icon src="https://iptv-epg.org/images/Y1_y--qIWkFVHoZgs_HRB5WYKDVsSSzSRu60trchh3PGISiJiAzzMnN8lPOeAfTSTkehue2ra2NouJOrFZjUaNm0PzqzjR38WEfYwA1ROwAgMpQ"/>
+  </channel>
+  <channel id="i24NEWSfr.pt">
+    <display-name>PT - i24 NEWS (F)</display-name>
+    <icon src="https://iptv-epg.org/images/4uQ6W217YYM6afwxJDoph6Rz0hq09x-vOJtD-1-y_bI-nQKbZNA0FrfhCcZydObFG9FxKuIMNiG9asTDpGYksIKb6t5wBfjLyQvMIsqQRZZC7nua"/>
+  </channel>
+  <channel id="IDInvestigationDiscovery.pt">
+    <display-name>PT - ID Investigation Discovery</display-name>
+    <icon src="https://iptv-epg.org/images/9-5tOepo4y57kSId0LAI0MkXQsOhzP-TyluxLe-ZtvcFIm76kN0Iu-qjEVjFx_FRc7kwvvizo1WoS6gyPDEbeARsUMqBmocmodm1fVFsWd27g-UBe5r6Xdg9UNTXn7bA71_y"/>
+  </channel>
+  <channel id="KBS.pt">
+    <display-name>PT - KBS</display-name>
+    <icon src="https://iptv-epg.org/images/qo495soyojpVURRFk5bscL1mVadDpn5NDzFm86qTkF4TDuZi-FkUNru0BetdswMdmH2GHlS03MyIcDn-V68LLpGEd6Rbz--Yjiin-8wi"/>
+  </channel>
+  <channel id="KIKA.pt">
+    <display-name>PT - KIKA</display-name>
+    <icon src="https://iptv-epg.org/images/MhVOMDYzg0Sni6cutZwkey9bJt7SIfzgmxusXwx6EeLOPFTHTV73KbtLo_fIFoJWf6kR4FIL2yhR-e2gnINJDgvXzThFWvDnlpZRSCkFXw"/>
+  </channel>
+  <channel id="KuriakosTV.pt">
+    <display-name>PT - Kuriakos TV</display-name>
+    <icon src="https://iptv-epg.org/images/xJkV_vw67gPZc7cfTig8Rw9FQMPSXpLr76JPkrawSp9O1QlM-HWiybDknQq_YHGPq_FjsXoYK2EBW1vrIwUdmVAdAHit--xXTwtl2Ta_9DBa_Qax5Q"/>
+  </channel>
+  <channel id="MCMPOP.pt">
+    <display-name>PT - MCM POP</display-name>
+    <icon src="https://iptv-epg.org/images/aox_lrAB3AFrA2KIcQ2AASixoxHUqRwNidls3avxgEv6Sv3rwLM2kPact1uU7DmB1cSMD4WJHjDce2VNTLWwMf34kR5PYtb3QOp0ah8JzbhJ"/>
+  </channel>
+  <channel id="MCMTOP.pt">
+    <display-name>PT - MCM TOP</display-name>
+    <icon src="https://iptv-epg.org/images/0k4JdId32P5VEjusJHrDXxODhWXPrl86mPHQBnXaX5Du6EpPJXiU9RHyPdPSaagb2isda8DJC3MK4Wi-6yfAzg09mm_nla8oj5m5GQesnbNo"/>
+  </channel>
+  <channel id="MEODESTAQUES.pt">
+    <display-name>PT - MEO DESTAQUES</display-name>
+    <icon src="https://iptv-epg.org/images/uw1QgMbL5MXmFpqne4o_6WcKJS4giQ42k2jdyFGyXBDBAiW3CTDnK2JSwXgY9bevvoSY2zkcPkwawRe49ZjWNuK6t_U9QwC4FN-BgSvSdmVdPEXbDOiQ"/>
+  </channel>
+  <channel id="MEZZOLive.pt">
+    <display-name>PT - MEZZO Live</display-name>
+    <icon src="https://iptv-epg.org/images/xxcznEOOkIPqq6HHYibjUhvRwu3RWUzM9uSvCdKuNpzK1dyrFTOUySKrQ1ziZVhNsMpiUyAeUrTRx7_GjNw-bAdCdv103mycSo7fS6LHPzODtyfy"/>
+  </channel>
+  <channel id="Motorvision.pt">
+    <display-name>PT - Motorvision</display-name>
+    <icon src="https://iptv-epg.org/images/y0Uv3hQ_ZrQjiUNNcdvlZv-EzE_RuLqd-7EV3eTyLvrVMYQ8qcEEBXeapXxv56FGdX84a8bBht-wAAmMoX548ZjscHfGUzQYjp4VCIFQI5KYzE45qoI"/>
+  </channel>
+  <channel id="MTV00s.pt">
+    <display-name>PT - MTV 00s</display-name>
+    <icon src="https://iptv-epg.org/images/HM3skIJ031muWCIxlpD1njp9MLN9K94uJOscwHXo-SObAA67OCMF_pucYvR3rXsOfNU-l9tOyNyJdLd0FBjHx02dw8xaKjg6j890NcmFRRaJ"/>
+  </channel>
+  <channel id="MTVLIVE.pt">
+    <display-name>PT - MTV LIVE</display-name>
+    <icon src="https://iptv-epg.org/images/q7bR9B7GGnjQyjp1AGOjR3kF34wNySuuJ-XooFPR9o9OOhMRTnZ_bFbL5ogWfZhnlW7VZcKFDUUIjqOMNMYsTN3XwpS2ZMteoTZ1snp34wZf7A"/>
+  </channel>
+  <channel id="MTVPortugal.pt">
+    <display-name>PT - MTV Portugal</display-name>
+    <icon src="https://iptv-epg.org/images/wyHlMX58BpP-biJRYkx_KxtKUhj7BgHTbvi3iG4SqIv5RCvUzm5u3OhR9XlCfkAIlqcVO3Kug9_gINkMPXqYq-si_7kMC_XhMyg_FHHiyOKuQBm9C4M"/>
+  </channel>
+  <channel id="NatGeo.pt">
+    <display-name>PT - Nat Geo</display-name>
+    <icon src="https://iptv-epg.org/images/8c7R0RzqvafTA92NRXTOAL2Qx4SJP5vrLQL0TMgjCY0FrfVH7qhlUH1n2s5-5Js2oYQd6xI6d6ZrYtOMRz5x9jEoeuz2PxsAH2kQmdVc9GnI"/>
+  </channel>
+  <channel id="NatGeoWild.pt">
+    <display-name>PT - Nat Geo Wild</display-name>
+    <icon src="https://iptv-epg.org/images/GyDJjXzQTNQDW9pw6_ZggPSlGi0EmegVi08XGUo06Syd-2wmAlbR0IRdHSdZlaCok0GpvwIjNy1b19AG7EzQU2APf7ude8ozueFv9D_yi1BQ4yQ3rQ"/>
+  </channel>
+  <channel id="NauticalChannel.pt">
+    <display-name>PT - Nautical Channel</display-name>
+    <icon src="https://iptv-epg.org/images/GXZHvzP0cvxv36ZZYfHq9ghkzNdCQo8ERH_WWdRfMZmAR5e7aOzUkXoDQqH2QbGpvQ0-77QNLX2_xZY4K0iBTyrDj24mtNSTHhKYwf49rQYjfGFNAlbtP3Fr"/>
+  </channel>
+  <channel id="NBATV.pt">
+    <display-name>PT - NBA TV</display-name>
+    <icon src="https://iptv-epg.org/images/URI0z1ir569QmZ65OvcBPcFFoYIO4i987O_WjWuJNwdcFrpQLFNgsBpqP_GNZyxqxLXwoHVOa8CFY13iBUZP1b8dRTk9a-6sT9Ka0oW2o1E"/>
+  </channel>
+  <channel id="NewsNOW.pt">
+    <display-name>PT - NewsNOW</display-name>
+    <icon src="https://iptv-epg.org/images/i57j-n25AFM4f-rJAXc4cN0VdRiHWU2tiIZ7H5M5oaQczB1FMvysk-HSJk7W5HE7ePE-k-MYlmQ9aFyRuQRJnIoXX_kcKkazCgf9QjZreHi1tw"/>
+  </channel>
+  <channel id="NHKWORLDTV.pt">
+    <display-name>PT - NHK WORLD TV</display-name>
+    <icon src="https://iptv-epg.org/images/g2S3aEq4IaDAe3vnCnFFxKB5UGWn-RIUOK_gBv44nLlBvDOb4zxggpXmBbOd8qxDOQZ-e4ZzbKfhWYK5BSaijJxq05Frva51rYqBDgwtYiGOPKRgYA"/>
+  </channel>
+  <channel id="NickJr.pt">
+    <display-name>PT - Nick Jr.</display-name>
+    <icon src="https://iptv-epg.org/images/AG2WO2LfQ0ObTJWFtSxoVav-K6XCMnBNMtWdP5FM2f2PmuLBZoI2OJl8AuLL_hUwrPMEQUf7SpXi6VFbQ7JKa6QolzCSctbpmkjc1-gWY_yn"/>
+  </channel>
+  <channel id="Nickelodeon.pt">
+    <display-name>PT - Nickelodeon</display-name>
+    <icon src="https://iptv-epg.org/images/CiYmnyrC1Nqfc_hTmgomo05pe23nH1aiZOPM4idcE9-Zo8ah5JQqzJL6eZQBYsuNnzVdlXfX0WnKcaZweRKgGOVCCu2gV3u6-gBQx-YbbZKVXXJCfoY"/>
+  </channel>
+  <channel id="NOSStudios.pt">
+    <display-name>PT - NOS Studios</display-name>
+    <icon src="https://iptv-epg.org/images/2JMkTCa1AG01g57CwihQmZW3P_qV7pZxa21h_CDYy-1f4FycVJZvRxE9iSkJtd0JEHCxlgVxVdd4tUAW4jmL9AyKUx5AbRcBYcAk-dKXyXHWt8mpqQ"/>
+  </channel>
+  <channel id="NOW.pt">
+    <display-name>PT - NOW</display-name>
+    <icon src="https://iptv-epg.org/images/RZhqZ23brtfgnw63qC0vrmOEgN7YnfPkONpF0Ac3BYUKm9r0gJhydnmW1CAi1cTS4M4_xQ4ubP7jw1CRry4timik3pzQ_S_o1X9OX2Y4"/>
+  </channel>
+  <channel id="Odisseia.pt">
+    <display-name>PT - Odisseia</display-name>
+    <icon src="https://iptv-epg.org/images/5HsiFvMo8RzxtZ26ezCfXQZK6V89HzUiSn8tEmed-ZmT0zInmOBHzZu_qhyvAaaPdEF8gI1P31yEDwCpLFngWyoBui6FQ6kq3aIdzICgYi5qJrc"/>
+  </channel>
+  <channel id="Panda.pt">
+    <display-name>PT - Panda</display-name>
+    <icon src="https://iptv-epg.org/images/qMWrZwLcjXTMldREPX2HS0DjDuKiVnqaaP3P1nwtQ45kkiOo3kyiT1QfNkZvP0YSsD64xmjjy4K7RceiraUoI-LxcaMl8YpfFvy-rnEugH4"/>
+  </channel>
+  <channel id="PandaKids.pt">
+    <display-name>PT - Panda Kids</display-name>
+    <icon src="https://iptv-epg.org/images/GWCRPbIBqIqPsVhoZlT8cUFw2_AjJq9WdtuWIySsQSb054u63RemXqPQxjzTFIc8c8KpR23f2WktSQWQJbWQcoSiz6Z3MBbnyygDgjQWGrCGVURd"/>
+  </channel>
+  <channel id="PenthouseGold.pt">
+    <display-name>PT - Penthouse Gold</display-name>
+    <icon src="https://iptv-epg.org/images/G_NXyj8XIxGRDaLe_H5i6c3W1LIMQGxzLA5DBZAXO81Fi7ebrGZ8QFsi_gK9Mx7hN0Lb6MIDTJokDU-FrzZ4_zEe9KBYcZaa_-WZJqnDVFeX4MrJVsllaw"/>
+  </channel>
+  <channel id="PhoenixCNE.pt">
+    <display-name>PT - Phoenix CNE</display-name>
+    <icon src="https://iptv-epg.org/images/Rtc_hpu-XP22KHHvP4n-IedmLw1eBSVUhyc2G3fNqgF35ThVWaq8BAyiN4wnFT3b5Bh0AbAGwBVak0O3AQBBgjhf1gnOVCdrr6vKa8xaUI1b6M5rNg"/>
+  </channel>
+  <channel id="PhoenixInfoNews.pt">
+    <display-name>PT - Phoenix InfoNews</display-name>
+    <icon src="https://iptv-epg.org/images/Yqzzra6IqGqwEpMIqzqWmAmx7qt6DW5251bpVq6Xn9w1r-FZB8Xa6pMUooZPiXjKDeJAOsymOsvUOnTzHCsw7aiR1S1RjqVZ9U80zs9eUS3EkFfNyEO-aE55"/>
+  </channel>
+  <channel id="PlayboyTV.pt">
+    <display-name>PT - Playboy TV</display-name>
+    <icon src="https://iptv-epg.org/images/qlQ43fIcVR_HLs9IJdfOcCodBGvcZX-FB-ZtgbnXFokxHHspxV5PnS0mFDQ06DOZfRrRSjEM5LlOzfekRG-mqCHxzNG817InUbZcFGH1A1ckMOJ4"/>
+  </channel>
+  <channel id="PortoCanal.pt">
+    <display-name>PT - Porto Canal</display-name>
+    <icon src="https://iptv-epg.org/images/mYttp3mE8Ta5OlenZzqzHDwSdZhQMmGuoiP7mwBjEhIhF3sQCStMHtna6XD6Th05ZqQpCqi8ixKyLywkRnF6FINdHF4kKmJG-RyUBKeE4RG2wsGHCw"/>
+  </channel>
+  <channel id="PROTVInternational.pt">
+    <display-name>PT - PRO TV International</display-name>
+    <icon src="https://iptv-epg.org/images/H_nfEnyT95WXZfvJvvPdzBPuh_0Na3ouUkInAgt3Z0eN1yoMa6jnVAmjxgD1LI223-gbVZTxb1gGv9t2yOylNjQrpA-8GyU8USjnbbBqqWW8uSRGxLziwN-89NJ9"/>
+  </channel>
+  <channel id="RAI1.pt">
+    <display-name>PT - RAI 1</display-name>
+    <icon src="https://iptv-epg.org/images/qnIrDLTLpFWNucOX-be4uYGRH0Z6WLwext3qXWSB-zS9iWemJpkS6q4DYXKyNcTyDgGpK7buzEJSHInDkfufRvO5NPdQTvW6ZPoEzpKSzA"/>
+  </channel>
+  <channel id="RAI3.pt">
+    <display-name>PT - RAI 3</display-name>
+    <icon src="https://iptv-epg.org/images/UmpW8WAw-pHE-cM7umDcVB35diCDemd3kxlV00IHZCrZxw5xPiARuwGzJ7na4Hu7Pd970-L8IEslUK9k5-JIU6UbRFzHYwqJQgQb96QOwA"/>
+  </channel>
+  <channel id="RAIScuola.pt">
+    <display-name>PT - RAI Scuola</display-name>
+    <icon src="https://iptv-epg.org/images/SNkUDHXTCjMIn-cgdK8iEi9a62kFd7hUxQg1wHSJxYMC4Q8FU-NOQDazP798WZNEJNVthUk-k6Mp_QATo8y9iDyrePEuL88JyIOEQrGzRjjC0f7f"/>
+  </channel>
+  <channel id="RAIStoria.pt">
+    <display-name>PT - RAI Storia</display-name>
+    <icon src="https://iptv-epg.org/images/uw8A56oqyhQVG3EurMCHcO09EV22Zq4JXo78_dWc0JvwnmRv9Oj0k0Dsb8e6tjdIzPh1pNAFIdJyHANJ9Iq67-apoFKe6juDdLUGrJrc6EQWviHf"/>
+  </channel>
+  <channel id="RecordNews.pt">
+    <display-name>PT - Record News</display-name>
+    <icon src="https://iptv-epg.org/images/y6QFi7tZJQa_6LiCMyZadExiEmuqzvTRKUov3jV5xjmgBpCUSvmlF9hKc9PAHn8svZezeyXx-Rns8FYfmYbcXSYD4d1WILTLdiZDXMbRPDw_vzNhOQ"/>
+  </channel>
+  <channel id="RecordTV.pt">
+    <display-name>PT - Record TV</display-name>
+    <icon src="https://iptv-epg.org/images/JTxT7skhB4F2JVZMD-R6PdHbJAMe3xMGdowtqjbjw2y2n8FbTClKSX46kCo-EUpsJfZSwRnbEhdAuP_IL0YZ9Rym_vqi8nPnpENN6oGinl4BfN8"/>
+  </channel>
+  <channel id="RTL.pt">
+    <display-name>PT - RTL</display-name>
+    <icon src="https://iptv-epg.org/images/tB7_FZY-L5a_kqn1RsG3ucvwm__5rVrq08Oyn727AnE41PR4gZeCYA98Q3yi_Sv_3lZGF_XSDNmY6f4hB-rz5-Az54eCovcZsw_YlOSr"/>
+  </channel>
+  <channel id="RTP1.pt">
+    <display-name>PT - RTP 1</display-name>
+    <icon src="https://iptv-epg.org/images/eKH3tRCHp7r7s7IslRryqtMttUa5UeSHUsXq33dL2Gra5xhj7q_sT8yQw52EMtJsPnVu6n_YWyotF_F8AJuSfRvGSVGVdz-5r_9bcx4jZA"/>
+  </channel>
+  <channel id="RTP2.pt">
+    <display-name>PT - RTP 2</display-name>
+    <icon src="https://iptv-epg.org/images/xBvSxM85MNWGyZxKB-b9uEOt7G7t0S1-sfIlqI0voDTTUIptlVPkpHjfrYxOI6MYhvKt3KqXJdxRfv1yu-ViPf_F4PC559VEsKYEA7pvQQ"/>
+  </channel>
+  <channel id="RTP3.pt">
+    <display-name>PT - RTP 3</display-name>
+    <icon src="https://iptv-epg.org/images/H0B8B3G4BQGsnM7O_5oR1gIi5bFk9-RefBAQLSiqi3U4FFtnuBqPRZjNbX1ihMpFU37biXsinbKP5CvxAuJgNTauuUHQJ-dTwv4L73M2vw"/>
+  </channel>
+  <channel id="RTPAcores.pt">
+    <display-name>PT - RTP Acores</display-name>
+    <icon src="https://iptv-epg.org/images/WoZPohKRxuHs7RPnJ61WRCnUpXXXMHO_n7BxNI5SmHsksTc54jDk2o9Dtaebw9JOMAAxdTAk0C14x_KA7B-vT2zPWW2Q8dTMz42NDHxQ9KchrJmq"/>
+  </channel>
+  <channel id="RTPAfrica.pt">
+    <display-name>PT - RTP Africa</display-name>
+    <icon src="https://iptv-epg.org/images/G7Pju4C6t5sA1J9wMpVk0Qz3Kt2OTQzgst4hws_55waO6kaUG4aeW9YOrzhdvXvsyrGUc_loQYsB-FRUBciJThk6jmpU1rRs-h-GNQI6nkHabAtK"/>
+  </channel>
+  <channel id="RTPMadeira.pt">
+    <display-name>PT - RTP Madeira</display-name>
+    <icon src="https://iptv-epg.org/images/eO8nCZckuKTaOuYr9rPJOag15JHPt5hYfKPo6JpK1T36O46lJook4Quo-prv-QAr5C_1Ha0r9ZcBm6qLZLNUO5Ihk6bJ4kptfEF8hP9tzIpQ1gB7KA"/>
+  </channel>
+  <channel id="RTPMemoria.pt">
+    <display-name>PT - RTP Memoria</display-name>
+    <icon src="https://iptv-epg.org/images/oN_urqWQM91iZUzfb1BibEsVYp5PPeD3WDIIziHTuaseV5k7rJ9y5qkL9mwXB29ooVHnx96bcpsOlkPm-JJneEYFxbymOGbXL58Yj6u8kDsziavcQQ"/>
+  </channel>
+  <channel id="RTRPlaneta.pt">
+    <display-name>PT - RTR Planeta</display-name>
+    <icon src="https://iptv-epg.org/images/w1yN6d5QAgPuq67gIaFH-UT0KbhxrbinI7RglbeyAG4dkb9GtPqrFWh7Z7dEkd65ECJD1cFbaPPsqhqUnIcGoLGn9W21ErhhBbJEszP63t0hq1ZZSQ"/>
+  </channel>
+  <channel id="S+.pt">
+    <display-name>PT - S+</display-name>
+    <icon src="https://iptv-epg.org/images/mBzRXEjuHw0l8Uj9k2CjitYp_8EsaiwZVL06gliXlwwROY3xNFiqxfhN6exJ3dxSKXvOE9wR4XHJ9RCr-EthEGBbcG7lBH4v1uSkoQcBNQ"/>
+  </channel>
+  <channel id="SexTreme.pt">
+    <display-name>PT - SexTreme</display-name>
+    <icon src="https://iptv-epg.org/images/QeR-VBAwvKsAUqrQEjp6A4VpW4Ym6ao_3yzQqpRT9aKYIzBNIFZfTVhsc_dYcwPhud6FNEytj37T14od8XkQPHfWrqHwe8RrcO1a-YGj271yDzA"/>
+  </channel>
+  <channel id="SIC.pt">
+    <display-name>PT - SIC</display-name>
+    <icon src="https://iptv-epg.org/images/BHf9B5e_PH1IWyX6BhqKOxu8Augty4OOOPzRM1znOc2nrYlqrBe7OnHVSXcggh9CG0pAYRpzW7i1grdgjHZzW172DlZXvNVqvcHzNZLq"/>
+  </channel>
+  <channel id="SICCaras.pt">
+    <display-name>PT - SIC Caras</display-name>
+    <icon src="https://iptv-epg.org/images/TGgIQyyGV6fgdbR_AQBOOuJN0c4AVL7OjFQBBWFZnTPBkyqUIG0tM8JZvO5DU3EUm-u4QF1udCU_KTo5YjI1SRdU5UtJfbVBRdVzKKuhyGbq76U"/>
+  </channel>
+  <channel id="SICk.pt">
+    <display-name>PT - SIC K</display-name>
+    <icon src="https://iptv-epg.org/images/xw2Mwpf0Q6joKANloBnA46t6uQqxMKXrgTqA_tkhS3XGnvVpacZbsvnyZ-VVF_NqUQC5WuNA_n3BKdmPXEIowPwF_LU4ux9taW-q5_78UQ"/>
+  </channel>
+  <channel id="SICMulher.pt">
+    <display-name>PT - SIC Mulher</display-name>
+    <icon src="https://iptv-epg.org/images/RKAcmAGYgYbvuWh9X5FCy3hzfJF86Mm0c8G_52t_s2Oas5YXlC0Qu85amcWKIPqEje6d7aYk6VFYZaMjKcY0OSyUGoz2OlkitdoHqkcolO2_XPMU"/>
+  </channel>
+  <channel id="SICNoticias.pt">
+    <display-name>PT - SIC Noticias</display-name>
+    <icon src="https://iptv-epg.org/images/3DVxJUyT4Qqko94cpy6IqmsZxZF6wRiBsd203g-jOhqvzK3lfDXC3Qa7wb-fBYbN-sUgnGq5pDaB6DFMTcNvTyXGVcxdh3crDd7onKEhkW5l21JBNCw"/>
+  </channel>
+  <channel id="SICNovelas.pt">
+    <display-name>PT - SIC Novelas</display-name>
+    <icon src="https://iptv-epg.org/images/mAUC1qa5ZYEcMKtXsA1eGhnf9FAXjbJtaFM4fd2EOgYLpV0-nKWQ9TINq-7amB4MbUda3Cdyik2jUqBmh1r5bUfDV9tBawgBdM8CNEMsZTwLdgSrBQ"/>
+  </channel>
+  <channel id="SICRadical.pt">
+    <display-name>PT - SIC Radical</display-name>
+    <icon src="https://iptv-epg.org/images/Dqpa2Nb9x3DZ60VEhUDvGQBCeOWovhGPfApl7VwYvip57Gq2viP2QObCERAQ2ZIUpN0q7fJJ_7GJVOUg6-WV4kK2R1M3tXa26mN9EEt9sWHnpmxeYw"/>
+  </channel>
+  <channel id="SICReplay.pt">
+    <display-name>PT - SIC Replay</display-name>
+    <icon src="https://iptv-epg.org/images/GAT3zzWebKikJQEBVOPxoIJXxF3fmsLg47r8wZatdORhGTrlBMvLjOp5D7mvQHr7s2nKwP-xg-xvhCz7zUjfDRcLO79_GtVzKnbz1p1EpZDe_bDF"/>
+  </channel>
+  <channel id="SkyNews.pt">
+    <display-name>PT - Sky News</display-name>
+    <icon src="https://iptv-epg.org/images/i6eK8fYslWOMB7OzJM0KC7Cghk4OEHUtio5JQGmIXrXiGqPXLtFnO4EItRD_BOTwDafkaSLE1ryeij9uF5Coc49a6lCOKm54bGwnvhBuh698Pg"/>
+  </channel>
+  <channel id="SPORTTV1.pt">
+    <display-name>PT - SPORT TV 1</display-name>
+    <icon src="https://iptv-epg.org/images/kYssfiLfC7V0wZqS-HdOTmfupzi0lce4E7uAtOkqq6PDQWeQgvdbcAlx5cY8F_8xlyTR7we25EXM2lRR1fsBZSHZ8iZdeI-W2tY5UF_vdxbYMms"/>
+  </channel>
+  <channel id="SPORTTV2.pt">
+    <display-name>PT - SPORT TV 2</display-name>
+    <icon src="https://iptv-epg.org/images/hrCzwq7ren-XsQtDFT2Hh3pA4Q3vtSSqffg2VSLRoulFCdti0T-OH3raVxOE_FKC7FutMQM4f-mR8cgSJ9yoDdVSrsW1DV_nAccVlw0bb7s6V_U"/>
+  </channel>
+  <channel id="SPORTTV3.pt">
+    <display-name>PT - SPORT TV 3</display-name>
+    <icon src="https://iptv-epg.org/images/PLjca5e3Bc2nXSmlbgGwYtTehQCKu1M0yVqC7HjWwvs6Vk1efS3BuIZWcP5rB1iNmf0vkXyLfux5xqn43ReGPVSBF4BO2AxqWvZ11q4_V7095xU"/>
+  </channel>
+  <channel id="SPORTTV4.pt">
+    <display-name>PT - SPORT TV 4</display-name>
+    <icon src="https://iptv-epg.org/images/rEu0jw99JMMW8nFQKBR1vXFExzI4qdDT-IvAHq9uBjpnCAGcavUkRdbmgSs__k4XLyd8chlAiitZd94DCB8aX2T81yG5RJ63OKFU2RpVuB_QoKQ"/>
+  </channel>
+  <channel id="SPORTTV5.pt">
+    <display-name>PT - SPORT TV 5</display-name>
+    <icon src="https://iptv-epg.org/images/I9iulOsiBelEGVf0Z5XDWQ6g-9hD8WDfJCPv-lzDHDHBfbbxkr_qkJWMYuowLMFXj-A-R9Q_NbWzhPRvrMR0a7oqNvZmxRyjqZrSqF603wHeF88"/>
+  </channel>
+  <channel id="SPORTTV6.pt">
+    <display-name>PT - SPORT TV 6</display-name>
+    <icon src="https://iptv-epg.org/images/zPeWk8OK7pT7856tr74JCffHQZTavvVjwh-wYKw9jM7XLphFwzzDuTPYVLeVKkp2rNTsuWbmIjeB7lNGHQlFyARvvbAGxlAHj9viAMRnEW0KmsA"/>
+  </channel>
+  <channel id="SPORTTV7.pt">
+    <display-name>PT - SPORT TV 7</display-name>
+    <icon src="https://iptv-epg.org/images/E2KxLap1UVwhxnTuxa8pv07iQMaftm3yHm-yTltQ8R6tSCyub2wmEzhSeTb65UqZwRk8G9I5x_4vGQtLyp36PG4HMM2kavD5FgiDSEdSWzVlppc"/>
+  </channel>
+  <channel id="SPORTTV+.pt">
+    <display-name>PT - SPORT TV+</display-name>
+    <icon src="https://iptv-epg.org/images/fxRO3gArLn8llKcQHwb_Qh8j598r-Ni6qjGCv-VPBMX731olyrm5m7Enw23GG_31SG1hT_OsdffXgsO51fstFLvnysi2iDEBF5gABj0x_6DcLzj9Cg"/>
+  </channel>
+  <channel id="SportingTV.pt">
+    <display-name>PT - Sporting TV</display-name>
+    <icon src="https://iptv-epg.org/images/aNg-tRCGREm4YSuJDu2zvM1xl7s1qxzTjhkSuSb2SevGEdyHqnurT9X9tbDdsak1PXq0yOQ3OLuiitmKROZ9m3IBfvnNHd7OIbmu0rmllAtVULBTSA"/>
+  </channel>
+  <channel id="StarChannel.pt">
+    <display-name>PT - Star Channel</display-name>
+    <icon src="https://iptv-epg.org/images/sgGSgHhjOWY7njg0fB8dP-1Lo6tvOF3URCFPss7Y9efP_iaVhw8Gf8HbTCribMGtf8t3VILl042SNBHjM-j123z0vRhVa9ZEpg8sdJTGymtBjtA3u5M"/>
+  </channel>
+  <channel id="StarComedy.pt">
+    <display-name>PT - Star Comedy</display-name>
+    <icon src="https://iptv-epg.org/images/gEEpXuLC3Z_4jNdSU-7nDRXmAgg1PIdrNaBzgUwpXfnJParZG_C7vpawek_hpQFJztdaGmptQf2FYF__nvqvHSQlpjVAvG2bHcZaSPhlwa8W66WWWQ"/>
+  </channel>
+  <channel id="StarCrime.pt">
+    <display-name>PT - Star Crime</display-name>
+    <icon src="https://iptv-epg.org/images/nUD9IE6XSszT35CGakHpFKiUg3ooUYMo7Ce3qNkd3dIKefxkmdBZug5y9I6_4HKaT2fUDEib6-AnStONWH_9OGD7mHci1QK5zWTio5S1elhHo04J"/>
+  </channel>
+  <channel id="StarLife.pt">
+    <display-name>PT - Star Life</display-name>
+    <icon src="https://iptv-epg.org/images/N6RpjKLbNrpqLTMnEjhXtoUN-M6GvegN8xCIJDQoJcMk9AF_aLvMuwHI1euCUzs7qp-3ZiPnS9-ObKca2Y6PeeXp8p35MR66UJPXHTyys-_7YEM"/>
+  </channel>
+  <channel id="StarMovies.pt">
+    <display-name>PT - Star Movies</display-name>
+    <icon src="https://iptv-epg.org/images/Lm0nV1DdkCPG0uPchgZ7Gsyi3MRhjTiNFS7WgGAiJprry9CX6wJ-uXUJ3GQsPfCeS44SEHWM-wImufinXbY6T9xVQZNpJGWw4_oHung3fsSOZ3R6zA"/>
+  </channel>
+  <channel id="STINGRAYICONCERTS.pt">
+    <display-name>PT - STINGRAY ICONCERTS</display-name>
+    <icon src="https://iptv-epg.org/images/LVPSVs7PPc0gvE5eYi5qNbmdWm9HZV_hxevZUZdlH85gMwvyKL6O7T1MxNQO-DCg7ldyn3iiaJN-2eH22hajLcqtN4zOFSD7ZnV6Qf-hstoo0BGywEnaQlX_WaE"/>
+  </channel>
+  <channel id="StingrayiConcerts.pt">
+    <display-name>PT - Stingray iConcerts</display-name>
+    <icon src="https://iptv-epg.org/images/BSoD3yKx9LTzo1TGTF8hVO73WwJwZWZORdhh3p8HjQ8LYW292a4jK5hrhDCasUlHXspR2wH8q6VvzpBo7JkiZ7bPm-p4FHJGHgeB3Qgl16MI_VWbfyhu-5GEuiU"/>
+  </channel>
+  <channel id="STINGRAYLOUD.pt">
+    <display-name>PT - STINGRAY LOUD</display-name>
+    <icon src="https://iptv-epg.org/images/UwHeM7n2vVTMdOj9wrb6xDVJjXwvOIVJBqNii80y2o7WAySVFTWOLlNduMwFlxZmKFmvb3uPds6kIs2S-v8rO5OdVC9hhgXlQXglrdQBQXRqSw8q9P7f"/>
+  </channel>
+  <channel id="STINGRAYRETRO.pt">
+    <display-name>PT - STINGRAY RETRO</display-name>
+    <icon src="https://iptv-epg.org/images/FYHhNi7SnJKDNAOepzfszvFkWBT-E28zwLLzzJEvsZgn6D4AJYrmgZTikj_Pp2xuIhEiGe7TDFOJdV-3O1EOIlPE3kce-6_dif4Y0v9YHIb8XSl_MqNvqg"/>
+  </channel>
+  <channel id="STVNoticias.pt">
+    <display-name>PT - STV Noticias</display-name>
+    <icon src="https://iptv-epg.org/images/Puqi3yoaUtd0Cr9dG_a12uv9Nu5hgHtvEN-q3a9XANkWcxyNjDc7HjqRUqndwbpKyA3P6mNORVeLKKBS50esIqVjACTxGN5uORHb_v38RZT_4dBFjwU"/>
+  </channel>
+  <channel id="SyFy.pt">
+    <display-name>PT - SyFy</display-name>
+    <icon src="https://iptv-epg.org/images/OPQsVp6T7Rx1SGxX2MK09UKtIqsMiusrRcuI_576XZB97VqyyqHLhwfNfp6zcHhicAMiCe6hAuFrV3-m8swFeaOC33YNPYN1rrZSiXBkcA"/>
+  </channel>
+  <channel id="TCVInternacional.pt">
+    <display-name>PT - TCV Internacional</display-name>
+    <icon src="https://iptv-epg.org/images/F7YFAl_jKwXqKkssTlzFF-9Oq6LSKn6_2RksY-neS_mWoCjDUb4JEDHMMZk1F3AdaQ2w1jA0LOqXhuf9ktsFnHZZorlFDeV5VuBvdWo_LHTdds3AQwlkdlfMHA"/>
+  </channel>
+  <channel id="TeleSUR.pt">
+    <display-name>PT - TeleSUR</display-name>
+    <icon src="https://iptv-epg.org/images/jTYhxfom050kwzcMKPb-I1-k_axrsSoT5DWknzLZza7tKA9w82KTRSo95R8zYj-1BZYJy3H8u4rTRDciThOrBdhtApq6LRxOmIq1QB2MWImLcA"/>
+  </channel>
+  <channel id="TLC.pt">
+    <display-name>PT - TLC</display-name>
+    <icon src="https://iptv-epg.org/images/tNtCgAaOpRLKi4Jveqlgcipjmc8iIwET5D_bBnbQiLbIu1EfLY0QbuRPRBNuwo0y5sP9B2Zu6MM9pvFnhIynmlQAOsH-AxCTC_EwTMCj"/>
+  </channel>
+  <channel id="TOROS.pt">
+    <display-name>PT - TOROS</display-name>
+    <icon src="https://iptv-epg.org/images/N3BpiztvvrJc471LIPwWSX_on5HOCUWcdp8zKYWINIWbzDhJzVGMwK2t8Bo7szRbl76M8vYOo_oTko4ao9y-4eHnP-lz3fwqBCQK6mtpBGo"/>
+  </channel>
+  <channel id="TPAInternacional.pt">
+    <display-name>PT - TPA Internacional</display-name>
+    <icon src="https://iptv-epg.org/images/ZL0WsQ6HInAOrAIMv0ziB-83a2k9fptRvv3xEQz6w5XufJMWpKavOE1WcKlAxOxIMwVkdF8dGtUW4CpaLUrMyGNNVXi6bIuiDeZf6wl_BrYTBjgvG_WBgQ1vRQ"/>
+  </channel>
+  <channel id="TraceBrazuca.pt">
+    <display-name>PT - Trace Brazuca</display-name>
+    <icon src="https://iptv-epg.org/images/uEwaIk11v_G_hBDYK58RRBfnfq3L7SCBsxvLtSfib0SjzhvLnZPErafrK9rr1t0DNuKG3MLrJGQH018yPXhhdDGeOudiuTK6bcMDzUZ53tltdnFXftGI"/>
+  </channel>
+  <channel id="TraceToca.pt">
+    <display-name>PT - Trace Toca</display-name>
+    <icon src="https://iptv-epg.org/images/IgNtbZAmPLs4gfYZvMLRhyWY5Gs5zb0ydSoBJvb7Gnq1qQSZ9m8iptJPXD39sGE1T94UvleIQJUrtFsJZYYIznW6iU3w9ZFzZwBICWJpUAJCedIw"/>
+  </channel>
+  <channel id="TraceUrban.pt">
+    <display-name>PT - Trace Urban</display-name>
+    <icon src="https://iptv-epg.org/images/j0rdQdASK7jO6JEzxoy9AwAt_uCNJ2pipFTKri4IgqMmWKew49r3JaOrek1JZ49VFL2oDkrsZPr0DdNJEqmT4JnLeHbiWw0cE0rDkIw8aABe0PTh1Q"/>
+  </channel>
+  <channel id="Travel.pt">
+    <display-name>PT - Travel</display-name>
+    <icon src="https://iptv-epg.org/images/8FYnSoiNg3ZO7AxaeDyzXaddeYuJTRiUMtyZmabYOHEbwGagdygVABwOwMmN5OzWP4CkMAzZJAOfBHBnBU-YuI8kHeJidNECeUlbE9BAu3Wc"/>
+  </channel>
+  <channel id="TRTWorld.pt">
+    <display-name>PT - TRT World</display-name>
+    <icon src="https://iptv-epg.org/images/68-lRW8aSuFh1dqshbcCF5qrbo0Ill6PoJwr-BHTfd-Uxo0ryyfINB4eg6B_tzy9__SBFxQfMDG0O89w-wNUWWzDVXExRqa8dYc3TPkvwpsW8oo"/>
+  </channel>
+  <channel id="TV5Monde.pt">
+    <display-name>PT - TV5 Monde</display-name>
+    <icon src="https://iptv-epg.org/images/YpUnhqgMBaJUXY0yy8Un6hzZ_9BW4-jEtAOVxG8cHXVDvVEwLJjOJ3bsqyI5xJ6jb0Qzfq3fjhY2AhEBH28UioLSy_dJwfcIbnbAzTd_hfW2cIk"/>
+  </channel>
+  <channel id="TVGalicia.pt">
+    <display-name>PT - TV Galicia</display-name>
+    <icon src="https://iptv-epg.org/images/5z2VQS85Tw7ZRL1v-soCCDdswFlRzsRMLjwUH0Lj4XWTPgsVChEqWtjZPQ3ScYD_NOXrLj4zqu17QHYJJ5vFbaMizM9-6ZUqmoEt_0sELazBNBHf"/>
+  </channel>
+  <channel id="TVVerdade.pt">
+    <display-name>PT - TV Verdade</display-name>
+    <icon src="https://iptv-epg.org/images/T6TKkIEKVlapJtO37dNiwWV64Dn_YZDJXi17OsMwKT6Xj4FSIlqP2DX-fvPBHyDCcD0YRwRs-zqpWUiHRsHA8LgGrM0VGXgS2WP_VDlFGnXQczd8"/>
+  </channel>
+  <channel id="TVCNEWS.pt">
+    <display-name>PT - TVC NEWS</display-name>
+    <icon src="https://iptv-epg.org/images/lCL0TPaBy1_UFnbIZx1FYqy0HH5N2TdfZf7udizZEWlfh3J6pjlRMDUX5WDcOp-uWRJfzMtA27-b4PeBz0Wpm7cuEtS5SeLEE6oHgrT8frWkhw"/>
+  </channel>
+  <channel id="TVCineAction.pt">
+    <display-name>PT - TVCine Action</display-name>
+    <icon src="https://iptv-epg.org/images/uBjBN9kB52kPpwaqxdAXn8V0BwW0IRpuK3BwoxP7Df1AwqPCJcqKTB_YJPapaQnl-FIa7sct2uEgViWe63FeYVv7Q_k-XmNpC3fXMyd4ZqRVzR0TM9aj"/>
+  </channel>
+  <channel id="TVCineEdition.pt">
+    <display-name>PT - TVCine Edition</display-name>
+    <icon src="https://iptv-epg.org/images/pZxMvO4cv3PZHxOHApKMbmKhOYGMotQItP5wsKwdDMBeI0FQg59JBF30R_mjieMfHh3xUmvpCbt5Tw9EMS1YwakPkhVJX8XQuNon7ECH777-OCHQiqSemA"/>
+  </channel>
+  <channel id="TVCineEmotion.pt">
+    <display-name>PT - TVCine Emotion</display-name>
+    <icon src="https://iptv-epg.org/images/aKPkxRD33zosQSvCXiXNLsKPM6Zno5hXtx1GMrMwRrQQx_Xjisy_qL1XYrfhKGvmBMICuWvsHEvEnmaT6r2FNiEYTKuGgIKflxCEMCHzcB6djEAWopc6PQ"/>
+  </channel>
+  <channel id="TVCineTop.pt">
+    <display-name>PT - TVCine Top</display-name>
+    <icon src="https://iptv-epg.org/images/RNXumFHNE7FACVDqdpJHSGxRU7HBlR16X0zvhYoG2jWyiuLX9p25XQUQO-A_rM3WVAo3Wt8_AFEwKSrcqkwPtF6VJnhcHtsx2tbKJxVZIKwehIBH"/>
+  </channel>
+  <channel id="TVE24h.pt">
+    <display-name>PT - TVE 24h</display-name>
+    <icon src="https://iptv-epg.org/images/KwEzlDW4f1kQZficVytPL2r8OBiN5DgOwNRwuBexpzZvNTHifE0Xn6LsK1EZen1w48Cbc3fKpIhddKYmaZr2T8gh7RBGR6Yp-n20dH89S7Ks"/>
+  </channel>
+  <channel id="TVEInternacional.pt">
+    <display-name>PT - TVE Internacional</display-name>
+    <icon src="https://iptv-epg.org/images/dXzHsCr2XxlgO9wMlDgFqR_CU5BqKfavvnzprJ4gtvCOj6ReIldxHs9A90bebirqvMnjNNmXE9jY4hcsWrhLCIPNhgdd2YK8-Up_V-kr_ju-LLicTZ_zjbLhmw"/>
+  </channel>
+  <channel id="TVI.pt">
+    <display-name>PT - TVI</display-name>
+    <icon src="https://iptv-epg.org/images/i67AwmHiiTSYpT6hFIPQ89bo_UamtVEzKxTfNsY_7kI_657gWRPs508fScG-Yh7x-KvcxTLMytL18-PkgeDl1pdKdbJn2ImW9rtLuyjV"/>
+  </channel>
+  <channel id="TVI24.pt">
+    <display-name>PT - TVI24</display-name>
+    <icon src="https://iptv-epg.org/images/rDWJuf-sqd39z0xf50dR15RaR_YkL9iXAmrZIFIh3mrtA56A9-3Gwpc0VTqjV07xCOcJusNPeqQxe2WndiBz2UliQBsIoftkaSGcoqky7yU"/>
+  </channel>
+  <channel id="TVIAfrica.pt">
+    <display-name>PT - TVI Africa</display-name>
+    <icon src="https://iptv-epg.org/images/xoLi7xy6yfMRG6zRGiZTQwaVms7tN-ejOwAhNu6DUHyGoywislfoFfGDL3-eNhsJD_pOZeqGdq4fL1P0W-RXmss1jJ92KIBa6Bbo_9bb2CSKaCqa"/>
+  </channel>
+  <channel id="TVIFiccao.pt">
+    <display-name>PT - TVI Ficcao</display-name>
+    <icon src="https://iptv-epg.org/images/7osU6_fkNFjNOKYvcJTSWXUL8Fgw1U9ABOD2t801502xFUqKZ5Fotru1ZTmn9rDMGaQuJ-XzbZT7D3kH9_X3nE5GxuQKYQmIC1yXZHaAq7P-eWM7"/>
+  </channel>
+  <channel id="TVIReality.pt">
+    <display-name>PT - TVI Reality</display-name>
+    <icon src="https://iptv-epg.org/images/4VWzTwlK0PhdUlM1MfejAVvTjh2ohvP0-U3tDUoMtKs0HXg5BPSv5EjUccjdiQci1uKXdE1uJpajwzdbENHq2Dxx_LRC-AWcSEjKurdNmeL1VHG6Gg"/>
+  </channel>
+  <channel id="TVRInternacional.pt">
+    <display-name>PT - TVR Internacional</display-name>
+    <icon src="https://iptv-epg.org/images/fFJU3fjHrTUXlwOtUg0fYgtdCWm5FECfobzlAyS18DnUcdBOoWWA7hjXJf_OHCnzWyqTHofUqy26IBRNlDaqXer-jPF8hxJEgkc0kzjPHj5lREkU5dfzK4w20A"/>
+  </channel>
+  <channel id="UMEuropa.pt">
+    <display-name>PT - UM Europa</display-name>
+    <icon src="https://iptv-epg.org/images/M-NZ1OLvfD1erEnxWA3HUK-S0AoP-hNdVxZZKiTISXjE-H8hTtK7Vj6NTXCtI_yb2dsx_g8acnbSe4f0jMFtKChW3mqjtb9JNCNXMtLe-JQTobs"/>
+  </channel>
+  <channel id="V+TVI.pt">
+    <display-name>PT - V+ TVI</display-name>
+    <icon src="https://iptv-epg.org/images/fytTyKoUmnJadW3Ir6p4e2a-5VVNZyDz6ABbLCSDiZVd3I7PZBuUR2hah72B9PTXPpUZhqeK9OH7tRyareudMhF9THKi5sBgRqt9_A6sC_Zvog"/>
+  </channel>
+  <channel id="Venus.pt">
+    <display-name>PT - Venus</display-name>
+    <icon src="https://iptv-epg.org/images/NzckhtmL3kFduZQhI4Q1EGrOrGgi9jdx68lrnz6O-5g1BfaS2JkfwySHaZKWL5CD_PdUniqgVxA45UZ6n2-4I707zUeiAeWenEoj5r-IjnE"/>
+  </channel>
+  <channel id="VIVIDRED.pt">
+    <display-name>PT - VIVID RED</display-name>
+    <icon src="https://iptv-epg.org/images/XodiHD_-CyWLsBBX17HBax2r_DaeHQIC_HXlHcCtE0VyEHTH8T8SZZxcB3W-AYXhj7O1_0vYRQPgoAKngtZg2dXh8Ue7zx_6AReTzK9ZV5lrnJs"/>
+  </channel>
+  <channel id="ZAPViva.pt">
+    <display-name>PT - ZAP Viva</display-name>
+    <icon src="https://iptv-epg.org/images/GLY_Mz33yB9OKty96eWnSbapTody7SUa6DJFax1MZiKoiOP_OoDN-QXC9RScPotnHignxpciCoHGMEbP1jm-crn4MBFclbinkxE8Va06asQgqg"/>
+  </channel>
+  <channel id="ZDFNEO.pt">
+    <display-name>PT - ZDFNEO</display-name>
+    <icon src="https://iptv-epg.org/images/kPKBZ2Oz8MC0KX_SElkOVD7V5CmJoWDjDtwPy-x07sLPIcXKJHD5_K09hM4mcsw-bnT8ez7WgO_fcddpo-9EXj26Mzo-bGos-ZQNWnb_nRO5"/>
+  </channel>
+  <channel id="ZEECINEMA.pt">
+    <display-name>PT - ZEE CINEMA</display-name>
+    <icon src="https://iptv-epg.org/images/XIRfAlbsOBi9JWljg2OQ_TRqDwCWByrei-mWMc_dwHqoaPoncixSHLw2xQctsTKe2pAwAyMObE7KxSgs0GFU_7JNlo4Xfb0tz-cNrFdTZmEyhGLD"/>
+  </channel>
+  <channel id="ZeeTV.pt">
+    <display-name>PT - Zee TV</display-name>
+    <icon src="https://iptv-epg.org/images/YLBsVeXLkYJoBDOV40abex-7HmVtUw2LQn9SBWQ-Lg_NI7TFvhX9sKl2wpcwZPawRONr3Zc4eMzzaE9NnAFqCv479wZu7Ec3nWf4QYnCe80"/>
+  </channel>
+  <channel id="Historia.pt">
+    <display-name>PT - História</display-name>
+    <icon src="https://iptv-epg.org/images/OS4KjxEKD3tn-pT7nGr_Jm0F7ZMRxCU2VhjBpmrWCYdRgnLawXJXcvCAgPmXNe2GItDMTMCDjGw5q50YmuVqJcSTZRdFT21UZElkT22o8uY9djk"/>
+  </channel>
+  <channel id="CancaoNovaTV.pt">
+    <display-name>PT - Canção Nova TV</display-name>
+    <icon src="https://iptv-epg.org/images/8HCJlJOZwhDl8XmzTXAQiLwe29s25nBYTW84NRuVG2IOHDXm67wXAkXwulbdjNEuyOwGQlyt_9ZbabJJLxAAPIoleTmzmr5ViTK7ag3LJy7BH8KsQO6g"/>
+  </channel>
+  <channel id="Localvisao.pt">
+    <display-name>PT - Localvisão</display-name>
+    <icon src="https://iptv-epg.org/images/N9-k1R7gDidtr6Hcb0Zavz11xWmdFHa1bbHE1vMhhaB73YbgRvmOynmCvAQ7VbFvB1R4E8_OxgMGZt272Rm9m6eApa63HiWWEYSMIwfazlrE1ajSWQ"/>
+  </channel>
+  <channel id="TVA.pt">
+    <display-name>PT - Televisão África</display-name>
+    <icon src="https://iptv-epg.org/images/kq7RRn7ea_FOYdngnvnEjWoNbbl9-T5uAjoQXUbX7r2lMZiyr_4dW0Cc6ziGelxshpLGoxkHAjcpWH9Umrp4no-jUUbhCAHbh4hTlLOV"/>
+  </channel>
+  <channel id="SICAltaDefinicao.pt">
+    <display-name>PT - SIC Alta Definição</display-name>
+    <icon src="https://iptv-epg.org/images/SFe51O8uq65RjJGs2bTBdE24RkylA-Wfpjz6Do2aPdiMwL19PF0pV8aAIvk1Af8Cy_7dYdnVlkWPVFzrlk3UhGRjB3uvgUbk2xJX2_JerTKa8Nwn2bR5JiUEVA"/>
+  </channel>
+  
